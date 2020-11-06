@@ -1,14 +1,14 @@
-﻿# [SONIX松翰](https://github.com/sochub/SONIX)
-[![sites](SoC/qitas.png)](http://www.qitas.cn)
-####  qitas@qitas.cn
-#### 父级：[vendor](https://github.com/sochub/vendor)
+﻿# [HC32L136](https://github.com/SoCXin/HC32L136)
 
-台湾[SONIX](http://www.sonix.com.tw/)松翰科技，成立于1996年7月，1997年初推出第一颗语音控制器产品，成为各方广泛认知的语音、音乐控制器的领导者，松翰在许多应用领域提供更多产品线包括Cortex-M0 MCU、8位OTP MCU、USB控制器等。
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
+
+#### [Vendor](https://github.com/SoCXin/Vendor)：[HDSC](https://www.hdsc.com.cn/)
+#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M0](https://github.com/SoCXin/CM0)
+#### [Level](https://github.com/SoCXin/Level)：48MHz
+
+[HC32L136](https://github.com/SoCXin/HC32L136)
+
+### [选型建议](https://github.com/SoCXin)作为低功耗产品
 
 
-###  [收录型号](https://github.com/sochub/SONIX)  
-
-* [SN32F700](https://github.com/sochub/SN32F700)
-* [SN8F5700](https://github.com/sochub/SN8F5700)
-
-##  [SoC资源平台](http://www.qitas.cn)
+###  [SoC芯平台](http://www.SoC.Xin)
