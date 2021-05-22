@@ -10,8 +10,7 @@
 ## [简介](https://github.com/SoCXin/HC32L136/wiki)
 
 [HC32L136](https://github.com/SoCXin/HC32L136) 集成 12 位 1Msps 高精度 SARADC 以及集成了比较器、运放、内置高性能 PWM 定时
-器、LCD 显示、多路 UART、SPI、I2C 等丰富的通讯外设，内建 AES、TRNG 等信息安全模块，具有
-高整合度、高抗干扰、高可靠性和超低功耗的特点。
+器、LCD 显示、多路 UART、SPI、I2C 等丰富的通讯外设，内建 AES、TRNG 等信息安全模块，具有高整合度、高抗干扰、高可靠性和超低功耗的特点。
 
 [![sites](docs/HC32L136.png)](https://www.hdsc.com.cn/Category82-1404)
 
