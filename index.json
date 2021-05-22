@@ -1,0 +1,50 @@
+{
+    "name":"HC32L136",
+    "series":["HC32L136K8TA","HC32L136J8TA","HC32L130J8TA","HC32L130J8UA","HC32L130F8UA","HC32L130E8PA"],
+    "type":"MCU",
+    "Core":"Cortex-M0",
+    "Freq":"48MHz",
+    "description":"hdsc Cortex-M0 MCU",
+    "peripheral": ["ADC","IIC","UART","SPI","LDO","PWM"],
+    "package":["LQFP48","LQFP64","TSSOP28","QFN32","QFN48"],
+    "SRAM":4,
+    "Flash":32,
+    "DATA":128,
+    "UART": {
+        "num": 2,
+        "FIFO": 16,
+        "ISO7816": 1,
+        "more":["BUAD","LIN","IrDA"]
+    },
+    "ADC": {
+        "num": 1,
+        "channel": 8,
+        "resolution": 12,
+        "rate": 2400
+    },
+    "TIM": {
+        "resolution":[16,16,16],
+        "rate": 1024
+    },
+    "PWR": {
+        "VDD": [2800,5000],
+        "Ivdd": 3.5,
+        "LDO": [5000,3300],
+        "rate": 1024
+    },
+    "PWM": {
+        "num": 2,
+        "resolution": 8,
+        "rate": 256
+    },
+    "upload": {
+        "ISP": true,
+        "IAP": true,
+        "SWD": true,
+        "speed": 115200
+    },
+    "vendor":"nuvoton",
+    "url":"http://www.SoC.xin/HC32L136",
+    "repo":"https://github.com/SoCXin/HC32L136",
+    "version":"1.0.0"
+}

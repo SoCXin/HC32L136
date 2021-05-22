@@ -1,6 +1,32 @@
 .pio/
 .vscode/
-*.bin
-*.out
 *.o
 ~$*
+settings
+config
+.settings
+RTE
+output
+flashloader
+mpu_*
+*launch
+# *sc*
+*cm23*
+*cm3*
+*cm7*
+*cm1*
+*cm0*
+# *.txt
+README*
+*.chm
+*.bin
+*.out
+*.dep
+*.log
+*.ewt
+*.ewd
+*.sfr
+*.icf
+*uvgui*
+*uvopt*
+*.ini
