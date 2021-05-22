@@ -4,7 +4,7 @@
 
 [![Build Status](https://github.com/SoCXin/HC32L136/workflows/src/badge.svg)](https://github.com/SoCXin/HC32L136/actions/workflows/src.yml)
 
-* [HDSC](https://www.hdsc.com.cn/)：[Cortex-M0](https://github.com/SoCXin/Cortex)
+* [hdsc](https://www.hdsc.com.cn/)：[Cortex-M0](https://github.com/SoCXin/Cortex)
 * [L3R3](https://github.com/SoCXin/Level) ：48 MHz  * 0.95 DMIPS/MHz
 
 ## [简介](https://github.com/SoCXin/HC32L136/wiki)
@@ -13,11 +13,10 @@
 器、LCD 显示、多路 UART、SPI、I2C 等丰富的通讯外设，内建 AES、TRNG 等信息安全模块，具有
 高整合度、高抗干扰、高可靠性和超低功耗的特点。
 
-[![sites](docs/HC32L136.png)](https://www.hdsc.com.cn/Category84-1492)
+[![sites](docs/HC32L136.png)](https://www.hdsc.com.cn/Category82-1404)
 
-#### 关键特性
+### 关键特性
 
-* 4 x UART
 * RTC
 * LCD 控制器
 * 3 x OPA
