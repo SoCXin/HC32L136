@@ -17,9 +17,12 @@
 ### 关键特性
 
 * RTC
-* LCD 控制器
+* 4*40 / 6*38 / 8*36 LCD驱动
 * 3 x OPA
 * 2 x CMP
+* 6bit DAC 和可编程基准输入的 2路 VC
+* 12bit 1Msps 高精度 SARADC
+* AES-128 硬件协处理器
 * 宽电压1.8 ~5.5V
 
 
@@ -32,7 +35,7 @@
 
 ### [选型建议](https://github.com/SoCXin)
 
-[HC32L136](https://github.com/SoCXin/HC32L136)
+[HC32L136](https://github.com/SoCXin/HC32L136) 2 路 LPUART 低功耗通讯接口，深度睡眠模式下可工作
 
 * LQFP64（10*10,0.5mm）
 * LQFP64（7*7,0.4mm）

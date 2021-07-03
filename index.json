@@ -24,7 +24,7 @@
     "peripheral": ["TIM","ADC","USB","UART","SPI","LDO","PWM"],
     "price":[4,8],
     "PWR": {
-        "VDD": [2800,5000],
+        "VDD": [1800,5500],
         "Ivdd": 3.5,
         "LDO": [5000,3300],
         "rate": 1024
@@ -45,7 +45,7 @@
         "Cortex-M",
         "HDSC",
         "HC32L136",
-        "DAC","SDIO","CAN","I2C","RTC","SPI",
+        "DAC","ADC","LPUSART","I2C","RTC","SPI",
         "3.6V","1.8V"
     ]
 }
