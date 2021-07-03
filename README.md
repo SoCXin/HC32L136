@@ -4,8 +4,8 @@
 
 [![Build Status](https://github.com/SoCXin/HC32L136/workflows/src/badge.svg)](https://github.com/SoCXin/HC32L136/actions/workflows/src.yml)
 
-* [hdsc](https://www.hdsc.com.cn/)：[Cortex-M0](https://github.com/SoCXin/Cortex)
-* [L3R3](https://github.com/SoCXin/Level) ：48 MHz  * 0.95 DMIPS/MHz
+* [hdsc](https://www.hdsc.com.cn/): [Cortex-M0](https://github.com/SoCXin/Cortex)
+* [L3R3](https://github.com/SoCXin/Level): 48 MHz x 0.94 DMIPS/MHz, [2.46 CoreMark/MHz](https://www.eembc.org/coremark/scores.php)
 
 ## [简介](https://github.com/SoCXin/HC32L136/wiki)
 
@@ -22,27 +22,26 @@
 * 2 x CMP
 * 宽电压1.8 ~5.5V
 
-#### HC32L136封装规格
+
+### [资源收录](https://github.com/SoCXin)
+
+* [参考资源](src/)
+* [参考文档](docs/)
+* [参考工程](project/)
+
+
+### [选型建议](https://github.com/SoCXin)
+
+[HC32L136](https://github.com/SoCXin/HC32L136)
 
 * LQFP64（10*10,0.5mm）
 * LQFP64（7*7,0.4mm）
 * LQFP48（7*7,0.5mm）
 
-#### HC32L130封装规格
+#### 相关开发板
 
-* LQFP48（7*7,0.5mm）
-* QFN48（7*7,0.5mm）
-* QFN32（4*4,0.4mm）
-* TSSOP28（0.65mm）
+[![sites](docs/test.jpg)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.72882e8dY3Klzv&id=625077638272&_u=3gas3eu8113)
+[![sites](docs/test.png)](https://www.hdsc.com.cn/Category83-1433)
 
-### [资源收录](https://github.com/SoCXin)
-
-* [参考文档](docs/)
-* [参考资源](src/)
-* [参考工程](project/)
-
-### [选型建议](https://github.com/SoCXin)
-
-[HC32L136](https://github.com/SoCXin/HC32L136)
 
 ### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)

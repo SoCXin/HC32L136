@@ -101,11 +101,10 @@ int32_t main(void)
     {
         ///< LED点亮
         Gpio_SetIO(STK_LED_PORT, STK_LED_PIN);
-        delay1ms(1000);
-
+        delay1ms(500);
         ///< LED关闭
         Gpio_ClrIO(STK_LED_PORT, STK_LED_PIN);
-        delay1ms(1000);
+        delay1ms(500);
     }
 }
 
