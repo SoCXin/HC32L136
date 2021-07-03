@@ -40,8 +40,7 @@
 
 #### 相关开发板
 
-[![sites](docs/test.jpg)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.72882e8dY3Klzv&id=625077638272&_u=3gas3eu8113)
-[![sites](docs/test.png)](https://www.hdsc.com.cn/Category83-1433)
+[![sites](docs/test.jpg)](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.72882e8dY3Klzv&id=615219195339&_u=3gas3eu2ab8)
 
 
 ### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
