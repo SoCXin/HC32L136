@@ -23,8 +23,8 @@ mpu_*
 *cm3*
 *cm7*
 *cm1*
-*cm0*
-# *.txt
+# *cm0*
+*.txt
 README*
 *.chm
 *.bin
